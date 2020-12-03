@@ -88,42 +88,55 @@ Lucas Resendes Ferreira
 
 ## Apresentação
 
-<object data="./docs/EasySnack.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./docs/EasySnack.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./docs/EasySnack.pdf">Download PDF</a>.</p>
-    </embed>
+<object data="./docs/EasySnack.pdf" type="application/pdf" width="90%"> 
 </object>
 
 ## Telas do projeto
+
 * Splash screen inicial
-![1](./docs/1.jpg)
+
+<img src="./docs/1.jpg" width="200" height="400" />
 
 * LoginScreen.js
-![2](./docs/2.jpg)
+
+<img src="./docs/2.jpg" width="200" height="400" />
 
 * CadastroUserScreen.js
-![3](./docs/3.jpg)
+
+<img src="./docs/3.jpg" width="200" height="400" />
 
 * CompaniesScreen.js
-![4](./docs/4.jpg)
+
+<img src="./docs/4.jpg" width="200" height="400" />
 
 * CardapioScreen.js
-![5](./docs/5.jpg)
+
+<img src="./docs/5.jpg" width="200" height="400" />
 
 * ConfirmarPedidoScreen.js
-![6](./docs/6.jpg)
+
+<img src="./docs/6.jpg" width="200" height="400" />
 
 * Splash pedido em andamento
-![7](./docs/7.jpg)
+
+<img src="./docs/7.jpg" width="200" height="400" />
 
 * Splash pedido realizado
-![8](./docs/8.jpg)
+
+<img src="./docs/8.jpg" width="200" height="400" />
 
 * QRCode do pedido 
-![9](./docs/9.jpg)
+
+<img src="./docs/9.jpg" width="200" height="400" />
 
 * PedidosScreen.js
-![10](./docs/10.jpg)
+
+<img src="./docs/10.jpg" width="200" height="400" />
 
 * QRCode do pedido
-![11](./docs/11.jpg)
+
+<img src="./docs/11.jpg" width="200" height="400" />
+
+* Com ícone
+
+<img src="./docs/12.jpg" width="200" height="400" />
