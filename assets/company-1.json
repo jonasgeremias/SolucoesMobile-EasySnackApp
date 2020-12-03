@@ -1,0 +1,216 @@
+{
+  "lastChange": "2020-11-26 02:02:45",
+  "companyCod": 1,
+  "fantasyName": "DE BOM",
+  "companyName": "Restaurante DE BOM",
+  "logo": "https://logodownload.org/wp-content/uploads/2017/05/ifood-logo-2.png",
+  "CNPJ": "25.103.759/0001-20",
+  "phone": "+55 49 99999-9999",
+  "telephone": "+55 49 3333-4455",
+  "website": "https://company1.com.br",
+  "category": [
+    "Fast Food",
+    "Pizzaria",
+    "Bar/Pub",
+    "Lanchonete",
+    "Restaurante",
+    "Self-Service"
+  ],
+  "kitchen": [
+    "Brasileira"
+  ],
+  "operationSchedule": [
+    {
+      "day": "Segunda",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Terça",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Quarta",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Quinta",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sexta",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Sabado",
+      "open": "08:00",
+      "close": "22:00"
+    },
+    {
+      "day": "Domingo",
+      "open": "08:00",
+      "close": "22:00"
+    }
+  ],
+  "address": {
+    "country": "Brasil",
+    "city": "Criciúma",
+    "street": "Rua Pascoal, R. Imigrante Meller",
+    "complement": "Restaurant complement",
+    "state": "Restaurant state",
+    "neighborhood": "Bairro - Universitário",
+    "number": "73",
+    "zipcode": "88805-380"
+  },
+  "menu": [
+    {
+      "cod": 1,
+      "name": "Pão de queijo",
+      "photo": "https://t2.rg.ltmcdn.com/pt/images/6/7/3/img_pao_de_queijo_de_liquidificador_376_600.jpg",
+      "description": "Pão de queijo quentinho.",
+      "price": 2.15
+    },
+    {
+      "cod": 2,
+      "name": "Café com leite (médio)",
+      "photo": "https://pilaoprofessional.com.br/blog/wp-content/uploads/2018/03/caf%C3%A9-com-leite_.jpg",
+      "description": "Café no ponto",
+      "price": 2.24
+    },
+    {
+      "cod": 3,
+      "name": "Assado de presunto e queijo",
+      "photo": "https://m.bonde.com.br/img/bondenews/2019/05/img_1579.webp",
+      "description": "Assado de presunto com queijo.",
+      "price": 4.97
+    },
+    {
+      "cod": 4,
+      "name": "Suco de laranja natural",
+      "photo": "https://imperialsushi.com.br/wp-content/uploads/2019/06/Suco-de-Laranja.jpg",
+      "description": "Suco natural",
+      "price": 3.50
+    },
+    {
+      "cod": 5,
+      "name": "Pastel de carne",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t_mOMnmBv9tDcDu06P217pkoq2NapQf34A&usqp=CAU",
+      "description": "Pastel de carne.",
+      "price": 3
+    },
+    {
+      "cod": 6,
+      "name": "Refrigerante lata - 350 ml",
+      "photo": "https://delivery.twom.com.br/wp-content/uploads/2018/10/1579_REFRIGERANTE_LATA_-_350ml_17d2e336feb44a2696fd6cf852c41b50.jpeg",
+      "description": "Refrigerante lata.",
+      "price": 1.5
+    },
+    {
+      "cod": 7,
+      "name": "Pão de queijo",
+      "photo": "https://t2.rg.ltmcdn.com/pt/images/6/7/3/img_pao_de_queijo_de_liquidificador_376_600.jpg",
+      "description": "Pão de queijo quentinho.",
+      "price": 2.5
+    },
+    {
+      "cod": 8,
+      "name": "Café com leite (médio)",
+      "photo": "https://pilaoprofessional.com.br/blog/wp-content/uploads/2018/03/caf%C3%A9-com-leite_.jpg",
+      "description": "Café no ponto",
+      "price": 2.00
+    },
+    {
+      "cod": 9,
+      "name": "Assado de presunto e queijo",
+      "photo": "https://m.bonde.com.br/img/bondenews/2019/05/img_1579.webp",
+      "description": "Assado de presunto com queijo.",
+      "price": 4.00
+    },
+    {
+      "cod": 10,
+      "name": "Suco de laranja natural",
+      "photo": "https://imperialsushi.com.br/wp-content/uploads/2019/06/Suco-de-Laranja.jpg",
+      "description": "Suco natural",
+      "price": 3.50
+    },
+    {
+      "cod": 11,
+      "name": "Pastel de carne",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t_mOMnmBv9tDcDu06P217pkoq2NapQf34A&usqp=CAU",
+      "description": "Pastel de carne.",
+      "price": 3
+    },
+    {
+      "cod": 12,
+      "name": "Refrigerante lata - 350 ml",
+      "photo": "https://delivery.twom.com.br/wp-content/uploads/2018/10/1579_REFRIGERANTE_LATA_-_350ml_17d2e336feb44a2696fd6cf852c41b50.jpeg",
+      "description": "Refrigerante lata.",
+      "price": 1.5
+    },{
+      "cod": 13,
+      "name": "Pão de queijo",
+      "photo": "https://t2.rg.ltmcdn.com/pt/images/6/7/3/img_pao_de_queijo_de_liquidificador_376_600.jpg",
+      "description": "Pão de queijo quentinho.",
+      "price": 2.5
+    },
+    {
+      "cod": 14,
+      "name": "Café com leite (médio)",
+      "photo": "https://pilaoprofessional.com.br/blog/wp-content/uploads/2018/03/caf%C3%A9-com-leite_.jpg",
+      "description": "Café no ponto",
+      "price": 2.00
+    },
+    {
+      "cod": 15,
+      "name": "Assado de presunto e queijo",
+      "photo": "https://m.bonde.com.br/img/bondenews/2019/05/img_1579.webp",
+      "description": "Assado de presunto com queijo.",
+      "price": 4.00
+    },
+    {
+      "cod": 16,
+      "name": "Suco de laranja natural",
+      "photo": "https://imperialsushi.com.br/wp-content/uploads/2019/06/Suco-de-Laranja.jpg",
+      "description": "Suco natural",
+      "price": 3.50
+    },
+    {
+      "cod": 17,
+      "name": "Pastel de carne",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-t_mOMnmBv9tDcDu06P217pkoq2NapQf34A&usqp=CAU",
+      "description": "Pastel de carne.",
+      "price": 3
+    },
+    {
+      "cod": 18,
+      "name": "Refrigerante lata - 350 ml",
+      "photo": "https://delivery.twom.com.br/wp-content/uploads/2018/10/1579_REFRIGERANTE_LATA_-_350ml_17d2e336feb44a2696fd6cf852c41b50.jpeg",
+      "description": "Refrigerante lata.",
+      "price": 1.5
+    },{
+      "cod": 19,
+      "name": "Pão de queijo",
+      "photo": "https://t2.rg.ltmcdn.com/pt/images/6/7/3/img_pao_de_queijo_de_liquidificador_376_600.jpg",
+      "description": "Pão de queijo quentinho.",
+      "price": 2.5
+    },
+    {
+      "cod": 20,
+      "name": "Café com leite (médio)",
+      "photo": "https://pilaoprofessional.com.br/blog/wp-content/uploads/2018/03/caf%C3%A9-com-leite_.jpg",
+      "description": "Café no ponto",
+      "price": 2.00
+    },
+    {
+      "cod": 21,
+      "name": "Assado de presunto e queijo",
+      "photo": "https://m.bonde.com.br/img/bondenews/2019/05/img_1579.webp",
+      "description": "Assado de presunto com queijo.",
+      "price": 5.10
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "lastChange": "2020-11-26 02:02:45",
+  "companies": [
+    {
+      "cod": 1,
+      "fantasyName": "La Casa da Pizza",
+      "companyName": "Restaurante La Casa da Pizza",
+      "icon": "https://static.tonolucro.com/images/empresa/B5dd81de26cd5d.jpg"
+    },
+    {
+      "cod": 2,
+      "fantasyName": "DE BOM",
+      "companyName": "Restaurante DE BOM",
+      "icon": "https://i.pinimg.com/originals/66/f9/70/66f970bda935c2a7ee8d87234c40bbd7.jpg"
+    },
+    {
+      "cod": 3,
+      "fantasyName": "Piaia Sushi",
+      "companyName": "Restaurante Piaia Sushi",
+      "icon": "https://visionpublicidade.com.br/wp-content/uploads/2019/02/Piaia-Sushi.png"
+    },
+    {
+      "cod": 4,
+      "fantasyName": "Hot",
+      "companyName": "Restaurante Hot",
+      "icon": "https://i.pinimg.com/736x/f9/65/0b/f9650beef1e6e92578525e7c8f97bc21.jpg"
+    },
+    {
+      "cod": 5,
+      "fantasyName": "SUSHI TRIBE",
+      "companyName": "Restaurante Sushi Tribe",
+      "icon": "https://www.logaster.com.br/blog/wp-content/uploads/sites/6/2019/03/0102_t_sushi-tribe-logo_3.png"
+    },
+    {
+      "cod": 6,
+      "fantasyName": "A Casa di Paolo",
+      "companyName": "Restaurante DE BOM",
+      "icon": "https://media-cdn.tripadvisor.com/media/photo-s/07/83/59/5b/trattoria-a-casa-di-paolo.jpg"
+    },
+    {
+      "cod": 7,
+      "fantasyName": "ifood",
+      "companyName": "Restaurante ifood",
+      "icon": "https://empresas.ifood.com.br/wp-content/uploads/2020/04/fav-icon.png"
+    },
+    {
+      "cod": 8,
+      "fantasyName": "Sabor Brasil",
+      "companyName": "Restaurante Sabor Brasil",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GFSYHPOLFNlj4hixftiuojIZV8uY17q3GA&usqp=CAU"
+    }
+  ]
+}

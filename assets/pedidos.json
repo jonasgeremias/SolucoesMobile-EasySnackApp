@@ -1,0 +1,80 @@
+{
+  "lastChange": "2020-11-26 02:02:45",
+  "pedidos": [
+    {
+      "codPedido": 1,
+      "statusPedido": 0,
+      "descStatusPedido": "Pendente",
+      "dataPedido": "2020-11-26 02:02:45",
+      "companyCod": 3,
+      "total": 50.45,
+      "cart": [
+         {
+            "cod": 1,
+            "qtd": 1,
+            "price": 2.15
+         },
+         {
+            "cod": 2,
+            "qtd": 4,
+            "price": 2.24
+         },
+         {
+            "cod": 3,
+            "qtd": 2,
+            "price": 4.97
+         }
+      ]
+    },
+    {
+      "codPedido": 2,
+      "statusPedido": 1,
+      "descStatusPedido": "Finalizado",
+      "dataPedido": "2020-11-26 02:02:45",
+      "companyCod": 1,
+      "total": "50.45",
+      "cart": [
+         {
+            "cod": 1,
+            "qtd": 1,
+            "price": 2.15
+         },
+         {
+            "cod": 2,
+            "qtd": 4,
+            "price": 2.24
+         },
+         {
+            "cod": 3,
+            "qtd": 2,
+            "price": 4.97
+         }
+      ]
+    },
+    {
+      "codPedido": 3,
+      "statusPedido": 0,
+      "descStatusPedido": "Pendente",
+      "dataPedido": "2020-11-26 02:02:45",
+      "companyCod": 2,
+      "total": "50.45",
+      "cart": [
+         {
+            "cod": 1,
+            "qtd": 1,
+            "price": 2.15
+         },
+         {
+            "cod": 2,
+            "qtd": 4,
+            "price": 2.24
+         },
+         {
+            "cod": 3,
+            "qtd": 2,
+            "price": 4.97
+         }
+      ]
+    }
+  ]
+}
