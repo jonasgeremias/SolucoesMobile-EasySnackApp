@@ -86,6 +86,13 @@ npm install --save
 ## Professor
 Lucas Resendes Ferreira
 
+## Apresentação
+
+<object data="./docs/EasySnack.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./docs/EasySnack.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./docs/EasySnack.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Telas do projeto
 * Splash screen inicial
