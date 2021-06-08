@@ -80,8 +80,6 @@ npm install --save
 ## Autores
 * Jonas P. Geremias
 * Mariane Joquim Melo
-* Clairton Zerwes
-* Filipi Piucco
 
 ## Professor
 Lucas Resendes Ferreira
